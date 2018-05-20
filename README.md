@@ -2,4 +2,4 @@
 
 <br/>
 
-https://marcinszumowski.github.io/resume/index.html
+https://marcinszumowski.github.io/My-resume/
