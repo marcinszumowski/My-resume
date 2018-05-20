@@ -1,5 +1,7 @@
-# Marcin Szumowski
+# **Welcome to my resume!**
+The resume project was created to find the perfect job as a programmer.
 
-<br/>
+TO SEE MY RESUME, PLEASE CLICK [**HERE !**](https://marcinszumowski.github.io/resume/)
 
-https://marcinszumowski.github.io/My-resume/
+*Enjoy!*
+## Marcin Szumowski
