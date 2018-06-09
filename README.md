@@ -5,5 +5,3 @@ TO SEE MY RESUME, PLEASE CLICK [**HERE !**](https://marcinszumowski.github.io/My
 
 *Enjoy!*
 ## Marcin Szumowski
-
-*This page was created with a bootstrap start for license MIT*
